@@ -33,3 +33,5 @@ friends: [
 ]
 # Disqus settings（https://disqus.com/）
 disqus_username: yguan
+
+theme: jekyll-theme-time-machine
